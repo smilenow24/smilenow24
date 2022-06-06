@@ -1,17 +1,23 @@
-## Kim Klinkhammer
+## Kim Klinkhammer . smileNow24
+
 ```
-I am living in Aachen; my birthplace is also Aachen
+Smile and the World becomes a better place! :)
+Also there are a lot possibilites to help people finding happiness.
 ```
 ```
-**F:** Was ist Ihr Lieblingsgetränk im Homeoffice? Trinken Sie lieber Kaffee oder Tee?
-**A:** Kaffee
+Whar I whant:
+People find my "code-products" good for their personal life;
+People undertand, that bugs are part of the normal life :)
 ```
 What I like:
-- coding
-- drinking coffee
-- zoom meertings
+- coding;
+- drinking coffee;
+- zoom meertings, with cool people and top companies;
 
-i use [Instagram](www.instagram.de)
+I Use:
+gitHub
+[Instagram](www.instagram.de)
+LinkedIn
 
 
 
