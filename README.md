@@ -2,7 +2,7 @@
 
 ```
 Smile and the World becomes a better place! :)
-Also there are a lot possibilites to help people finding happiness.
+But also technology can change the world!
 ```
 ```
 What I want:
@@ -15,9 +15,9 @@ What I like:
 - zoom meertings, with cool people and top companies;
 
 I Use:
-gitHub
-[Instagram](www.instagram.de)
-LinkedIn
+- gitHub
+- Instagram
+- LinkedIn
 
 
 
